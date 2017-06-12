@@ -1,0 +1,13 @@
+{
+  "name": "av.by",
+  "version": "1.0.0",
+  "description": "av.by react",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jane Kulakovski",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
